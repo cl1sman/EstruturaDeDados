@@ -1,2 +1,2 @@
-# estrutura_de_dados
+# Estrutura de dados
 Projeto de estrutura de dados, atividades
